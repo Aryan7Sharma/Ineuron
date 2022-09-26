@@ -1,0 +1,22 @@
+root - 2022-07-11 08:44:56,249 - INFO - User run task.py file
+root - 2022-07-11 08:44:56,249 - INFO - We entered in class Ineuron
+root - 2022-07-11 08:44:56,249 - INFO - We have a _stu_detail variable which holds the reference of student enrolled details hashmap 
+root - 2022-07-11 08:44:56,249 - INFO - Now im inside a Assignment Class
+root - 2022-07-11 08:44:56,249 - INFO - Now im inside a Quizzes Class
+root - 2022-07-11 08:44:56,250 - INFO - User run circulism.py file which is inside a syallus pakage
+root - 2022-07-11 08:44:56,250 - INFO - Now im inside a Circulism class
+root - 2022-07-11 08:44:56,251 - INFO - NOw im inside a show_content function
+root - 2022-07-11 08:44:56,251 - INFO - course syallus are   FSDA -- ['Statistics', 'Python', 'SQL'] --,  FSDS -- ['Statistics', 'Python', 'SQL', 'Machine Learning', 'Computer Vision', 'Deep Learning', 'NLP', 'Flask'] --,  FSDE -- ['Mathematics', 'Python', 'Tableau', 'Power BI', 'Aws', 'Azure'] --,  AIOPS-- ['Mathematics', 'Docker', 'Gibhub', 'Aws'] --  
+root - 2022-07-11 08:44:56,251 - INFO - circulism Module imported successfully
+root - 2022-07-11 08:44:56,251 - INFO - NOw im inside a show_content function
+root - 2022-07-11 08:44:56,251 - INFO - course syallus are   FSDA -- ['Statistics', 'Python', 'SQL'] --,  FSDS -- ['Statistics', 'Python', 'SQL', 'Machine Learning', 'Computer Vision', 'Deep Learning', 'NLP', 'Flask'] --,  FSDE -- ['Mathematics', 'Python', 'Tableau', 'Power BI', 'Aws', 'Azure'] --,  AIOPS-- ['Mathematics', 'Docker', 'Gibhub', 'Aws'] --  
+root - 2022-07-11 08:44:56,251 - INFO - NOw im inside a show_content function
+root - 2022-07-11 08:44:56,251 - INFO - course syallus are   FSDA -- ['Statistics', 'Python', 'SQL'] --,  FSDS -- ['Statistics', 'Python', 'SQL', 'Machine Learning', 'Computer Vision', 'Deep Learning', 'NLP', 'Flask'] --,  FSDE -- ['Mathematics', 'Python', 'Tableau', 'Power BI', 'Aws', 'Azure'] --,  AIOPS-- ['Mathematics', 'Docker', 'Gibhub', 'Aws'] --  
+root - 2022-07-11 08:44:56,251 - INFO - Result  --course syallus are   FSDA -- ['Statistics', 'Python', 'SQL'] --,  FSDS -- ['Statistics', 'Python', 'SQL', 'Machine Learning', 'Computer Vision', 'Deep Learning', 'NLP', 'Flask'] --,  FSDE -- ['Mathematics', 'Python', 'Tableau', 'Power BI', 'Aws', 'Azure'] --,  AIOPS-- ['Mathematics', 'Docker', 'Gibhub', 'Aws'] --  
+root - 2022-07-11 08:44:56,252 - INFO - Now im inside a One_neuron Class
+root - 2022-07-11 08:44:56,252 - INFO - Now im inside a Hall of Fame class
+root - 2022-07-11 08:44:56,252 - INFO - Now im inside a Information_of_HoF which is inheriated by (hall of fame class)
+root - 2022-07-11 08:44:56,252 - INFO - now im inside a Duration Class
+root - 2022-07-11 08:44:56,252 - INFO - now im inside a Enrolled Class
+root - 2022-07-11 08:44:56,252 - INFO - FSDS -- ML
+root - 2022-07-11 08:44:56,252 - INFO - Excuted successfully

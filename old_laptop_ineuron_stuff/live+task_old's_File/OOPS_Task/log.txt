@@ -1,0 +1,8 @@
+root - 2022-07-11 08:04:21,510 - INFO - User run circulism.py file which is inside a syallus pakage
+root - 2022-07-11 08:04:21,510 - INFO - Now im inside a Circulism class
+root - 2022-07-11 08:04:21,510 - INFO - NOw im inside a show_content function
+root - 2022-07-11 08:04:21,510 - INFO - course syallus are   FSDA -- ['Statistics', 'Python', 'SQL'] --,  FSDS -- ['Statistics', 'Python', 'SQL', 'Machine Learning', 'Computer Vision', 'Deep Learning', 'NLP', 'Flask'] --,  FSDE -- ['Mathematics', 'Python', 'Tableau', 'Power BI', 'Aws', 'Azure'] --,  AIOPS-- ['Mathematics', 'Docker', 'Gibhub', 'Aws'] --  
+root - 2022-07-11 08:44:49,873 - INFO - User run circulism.py file which is inside a syallus pakage
+root - 2022-07-11 08:44:49,873 - INFO - Now im inside a Circulism class
+root - 2022-07-11 08:44:49,873 - INFO - NOw im inside a show_content function
+root - 2022-07-11 08:44:49,873 - INFO - course syallus are   FSDA -- ['Statistics', 'Python', 'SQL'] --,  FSDS -- ['Statistics', 'Python', 'SQL', 'Machine Learning', 'Computer Vision', 'Deep Learning', 'NLP', 'Flask'] --,  FSDE -- ['Mathematics', 'Python', 'Tableau', 'Power BI', 'Aws', 'Azure'] --,  AIOPS-- ['Mathematics', 'Docker', 'Gibhub', 'Aws'] --  

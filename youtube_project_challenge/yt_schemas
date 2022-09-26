@@ -1,0 +1,7 @@
+CREATE TABLE `youtubers_data` (`channel_name` text,`subscribers` text,`no_of_videos` int,`profile_picture` text,PRIMARY KEY (`channel_name`));
+
+CREATE TABLE `videos_data` (`videos_id` text,`channel_name` text,`views` int,`likes` text,`comments_counts` text,`age_rest` text,`description` text,`thumbnail_url` text,`videos_url` text,PRIMARY KEY (`videos_id`),FOREIGN KEY (`channel_name`) REFERENCES `youtubers_data`(`channel_name`));
+
+CREATE TABLE `comments_data` (`videos_id` text,`commenter_name` text,`comment` text,FOREIGN KEY (`videos_id`) REFERENCES `videos_data`(`videos_id`));
+
+
